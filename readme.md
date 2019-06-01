@@ -19,7 +19,12 @@
 - requests
 - bs4
 - Crypto（网易云音乐）
-- execjs（歌单）
+
+## 运行
+
+```shell
+python main.py
+```
 
 ## 注意事项
 
@@ -29,7 +34,7 @@
 
 ## 总结
 
-https://wwwpf.github.io/2019/02/07/%E5%88%A4%E6%96%AD%E7%BD%91%E9%A1%B5%E7%AB%AFQQ%E9%9F%B3%E4%B9%90%E5%8F%8A%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E6%AD%8C%E6%9B%B2%E8%83%BD%E5%90%A6%E6%92%AD%E6%94%BE/
+[判断网页端QQ音乐及网易云音乐歌曲能否播放](https://wwwpf.github.io/2019/02/07/判断网页端QQ音乐及网易云音乐歌曲能否播放/)
 
 ## 参考
 
